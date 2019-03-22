@@ -1,5 +1,8 @@
 # Simple-Api-Implementation
-Basic user interactions and API calls
+
+Picture Searcher app (React)
+
+(Basic user interactions and API calls)
 
 1. Clone repository
 
