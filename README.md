@@ -1,6 +1,6 @@
 Quick start:
 
-## 0. Sneak Peak
+## 0. Sneak Peek
 https://picturesearcher.herokuapp.com/
 
 ## 1. API access
