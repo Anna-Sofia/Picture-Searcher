@@ -23,5 +23,5 @@ You will also see any lint errors in the console.
 
 ## 4. How to use the app
 
-1. Enter search terms by typing text on the search bar. You can type for example 'fly' or specify the search by typing 'fly+insect'.
-2. Hit enter
+1. Enter search terms into the search bar. You can type for example 'fly' or specify the search by typing 'fly+insect'.
+2. Hit enter.
