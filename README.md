@@ -7,7 +7,7 @@ Register yourself to access developer functionalities on https://unsplash.com/jo
 ## 2. Add the client-id
 
 Copy-paste the cliend-id you get after creating your app on the page into the file unsplash.js (Picture-Searcher/src/api/unsplash.js). 
-Please refer page's own instructions on that.
+Please refer page's own instructions on how to genetate app and the key.
 
 ## 3. Start the project
 
