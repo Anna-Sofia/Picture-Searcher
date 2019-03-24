@@ -1,5 +1,8 @@
 Quick start:
 
+## 0. Sneak Peak
+https://picturesearcher.herokuapp.com/
+
 ## 1. API access
 
 Register yourself to access developer functionalities on https://unsplash.com/join and navigate into the API/Developers section on the page.
