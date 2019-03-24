@@ -2,7 +2,7 @@ Simple guide:
 
 ## 1. API access
 
-Register yourself to access developer functionalities on https://unsplash.com/join and navigate into the API/Developers section.
+Register yourself to access developer functionalities on https://unsplash.com/join and navigate into the API/Developers section on the page.
 
 ## 2. Add the client-id
 
