@@ -1,4 +1,4 @@
-Simple guide:
+Quick start:
 
 ## 1. API access
 
